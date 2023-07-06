@@ -1,0 +1,21 @@
+{
+  "name": "sigv4-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.4.0",
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "@aws-crypto/sha256-js": "^4.0.0",
+    "@aws-sdk/protocol-http": "^3.357.0",
+    "@aws-sdk/signature-v4": "^3.357.0",
+    "axios": "^1.4.0"
+  }
+}
