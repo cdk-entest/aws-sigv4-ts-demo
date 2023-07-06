@@ -8,7 +8,7 @@ date: 2023-07-06
 
 ## Introduction
 
-[GitHub](https://github.com/cdk-entest/aws-sigv4-demo/tree/master) this note shows how to use AWS Signature V4 to sign a request
+[GitHub](https://github.com/cdk-entest/aws-sigv4-ts-demo/tree/master) this note shows how to use AWS Signature V4 to sign a request
 
 ## Setup Project
 
