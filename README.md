@@ -156,3 +156,5 @@ signer
 - [@aws-sdk/signature-v4-crt](https://docs.aws.amazon.com/AWSJavaScriptSDK/v3/latest/Package/-aws-sdk-signature-v4/)
 
 - [python example signature v4](https://github.com/aws-samples/sigv4a-signing-examples)
+
+- [tsconfig lib and target](https://www.claritician.com/typescript-lib-vs-target-what-s-the-difference)

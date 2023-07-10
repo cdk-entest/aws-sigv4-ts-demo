@@ -1,2 +1,2 @@
 npx tsc
-node build/index.js
+node dist/index.js
