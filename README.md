@@ -158,3 +158,5 @@ signer
 - [python example signature v4](https://github.com/aws-samples/sigv4a-signing-examples)
 
 - [tsconfig lib and target](https://www.claritician.com/typescript-lib-vs-target-what-s-the-difference)
+
+- [import ts and js](https://github.com/microsoft/TypeScript/issues/40878)
